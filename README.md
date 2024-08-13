@@ -8,7 +8,6 @@ Welcome to the official GitHub repository of **BlackGloveYoru**, a YouTube creat
 
 **BlackGloveYoru** is a passionate content creator on YouTube, focusing on:
 - **Gaming**: Playthroughs, tips, and reviews of popular games.
-- **Tech**: In-depth discussions, unboxings, and reviews of the latest gadgets.
 - **Community Engagement**: Livestreams, Q&A sessions, and collaborations with other creators.
 
 Whether you're a gamer, a tech enthusiast, or just someone who loves well-crafted content, you'll find something to enjoy on BlackGloveYoru's channel.
@@ -21,7 +20,6 @@ Check out the latest videos and subscribe to the channel to stay updated:
 ## Repository Content
 
 This repository is a collection of resources and projects related to BlackGloveYoru's content, including:
-- **Scripts and Notes**: Behind-the-scenes content and scripts used in videos.
 - **Project Files**: Source files for projects featured in the videos.
 - **Community Contributions**: Contributions from fans and collaborators.
 
@@ -29,7 +27,7 @@ This repository is a collection of resources and projects related to BlackGloveY
 
 - **Twitter**: [@BlackGloveYoru](https://twitter.com/BlackGloveYoru)
 - **Instagram**: [@BlackGloveYoru](https://www.instagram.com/BlackGloveYoru)
-- **Discord**: Join the community on Discord for more interaction and updates.
+- **Discord**: (https://discord.com/invite/7jPNnCbAeE).
 
 ## Support the Channel
 
@@ -37,7 +35,7 @@ If you enjoy the content, consider supporting BlackGloveYoru by:
 - Liking and sharing the videos.
 - Subscribing to the channel.
 - Leaving comments and engaging with the community.
-- Supporting on [Patreon](https://www.patreon.com/BlackGloveYoru) for exclusive content.
+
 
 ## License
 
