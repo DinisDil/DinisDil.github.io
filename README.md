@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository of **BlackGloveYoru**, a YouTube creator known for engaging content on gaming, tech, and more!
 
-![BlackGloveYoru Banner](https://via.placeholder.com/800x200.png?text=BlackGloveYoru+YouTube+Channel)
+![BlackGloveYoru Banner](https://ibb.co/qFpHq6f)
 
 ## About BlackGloveYoru
 
@@ -16,7 +16,7 @@ Whether you're a gamer, a tech enthusiast, or just someone who loves well-crafte
 ## YouTube Channel
 
 Check out the latest videos and subscribe to the channel to stay updated:
-[**BlackGloveYoru on YouTube**](https://www.youtube.com/c/BlackGloveYoru)
+[**BlackGloveYoru on YouTube**](https://www.youtube.com/channel/UCBH7KcOaqeKF3lPyzSfdDWg)
 
 ## Repository Content
 
