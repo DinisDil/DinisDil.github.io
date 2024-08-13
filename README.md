@@ -25,9 +25,8 @@ This repository is a collection of resources and projects related to BlackGloveY
 
 ## Connect with BlackGloveYoru
 
-- **Twitter**: [@BlackGloveYoru](https://twitter.com/BlackGloveYoru)
-- **Instagram**: [@BlackGloveYoru](https://www.instagram.com/BlackGloveYoru)
-- **Discord**: (https://discord.com/invite/7jPNnCbAeE).
+- **Discord Server**: (https://discord.com/invite/7jPNnCbAeE).
+- **Discord User**: blackgloveyoru
 
 ## Support the Channel
 
