@@ -1,6 +1,8 @@
- .u-section-1 {
+.u-section-1 {
+  background-color: #000000; /* Dark background fallback */
   background-image: url("images/1e337aca6926e6390da9170be3bb09db.png");
   background-position: 50% 50%;
+  background-size: cover;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -19,15 +21,18 @@
   font-size: 6rem;
   position: relative;
   margin: 34px 20px 0;
+  color: #FFFFFF; /* Ensure text is visible on dark background */
 }
 
 .u-section-1 .u-text-2 {
   font-weight: 700;
   margin: 80px 20px 0 -67px;
+  color: #FFFFFF; /* Ensure text is visible on dark background */
 }
 
 .u-section-1 .u-text-3 {
   margin: 20px 33px -187px 20px;
+  color: #FFFFFF; /* Ensure text is visible on dark background */
 }
 
 .u-section-1 .u-image-1 {
@@ -93,9 +98,13 @@
   .u-section-1 .u-image-1 {
     margin-right: 25px;
   }
-} .u-section-2 {
+}
+
+.u-section-2 {
+  background-color: #000000; /* Dark background fallback */
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('images/24fda6d68bcc3990e6414db6ba04dfe8.png');
   background-position: 50% 50%;
+  background-size: cover;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -114,6 +123,7 @@
 
 .u-section-2 .u-text-1 {
   margin: -303px 537px 0 33px;
+  color: #FFFFFF; /* Ensure text is visible on dark background */
 }
 
 .u-section-2 .u-video-2 {
@@ -128,6 +138,7 @@
 
 .u-section-2 .u-text-2 {
   margin: -50px 98px 60px 625px;
+  color: #FFFFFF; /* Ensure text is visible on dark background */
 }
 
 @media (max-width: 1199px) {
