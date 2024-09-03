@@ -102,7 +102,7 @@
 
 .u-section-2 {
   background-color: #000000; /* Dark background fallback */
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('images/24fda6d68bcc3990e6414db6ba04dfe8.png');
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('24fda6d68bcc3990e6414db6ba04dfe8.png');
   background-position: 50% 50%;
   background-size: cover;
 }
